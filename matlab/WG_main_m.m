@@ -80,9 +80,6 @@ utilsFunc list:
 1.WirtingerGradient
 
 2.ObjectFieldGenerator
-
-3.OptimInit
-
 %}
 
 function grad_Uin = WirtingerGradient(U_in,ref,Type)
