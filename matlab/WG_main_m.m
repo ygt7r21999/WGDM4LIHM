@@ -1,3 +1,5 @@
+%%%
+
 % 1.Amp_gt
 Int_o_gt = im2double(imread("I0.bmp"));
 Amp_o_gt = sqrt(Int_o_gt);
